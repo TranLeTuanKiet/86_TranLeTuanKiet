@@ -18,10 +18,12 @@ namespace WindowsFormsApplication1
         }
         public void FormLoad()
         {
-            int a;
+            int a = 0;
             int b = 2, c = 3;
-            a = 1;
-            Console.WriteLine(a);
+<<<<<<< HEAD
+=======
+            Console.WriteLine(a + b + c);
+>>>>>>> tkbranch-new
         }
     }
 }
